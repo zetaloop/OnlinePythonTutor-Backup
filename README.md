@@ -1,3 +1,11 @@
+> [!WARNING]
+> 
+> **This is the latest backup of the original open source repo.**
+> 
+> Python Tutor is no longer open source, and pgbovine cleared his account around August 2020, including the Python Tutor repository.
+> However, Python Tutor itself is still under development. You can visit the [official website](https://pythontutor.com) to use it.
+> 
+
 Python Tutor -- http://pythontutor.com/ -- helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer executes each line of a program's source code. Using this tool, you can write Python, Java, JavaScript, TypeScript, Ruby, C, and C++ programs in your Web browser and visualize what the computer is doing step-by-step as it executes those programs.
 
 This tool was created by [Philip Guo](http://pgbovine.net/) in January 2010. [See project history](history.txt).
