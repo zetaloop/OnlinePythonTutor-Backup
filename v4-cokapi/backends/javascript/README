@@ -1,0 +1,8 @@
+To test on macOS or Linux, run 'make depsMac' or 'make depsLinux' to
+install node dependencies, and then you can run golden_test.py or run
+tests manually with the command line given by the PROGRAM variable in
+taht file
+
+Then run 'make' to create the proper docker container
+
+This backend has been tested to work on node-v6.0.0
